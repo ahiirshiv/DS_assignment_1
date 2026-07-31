@@ -1,4 +1,8 @@
 assign2/
 .DS_Store
-*.pages
 *.pdf
+*.pages
+
+# Xcode user files
+xcuserdata/
+*.xcuserstate
